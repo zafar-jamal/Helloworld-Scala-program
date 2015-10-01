@@ -1,0 +1,6 @@
+to compile, the command is following:
+mvn clean install
+
+
+to submit the command is following:
+spark-submit --class zjspak.sohelloworld --master local   HelloWorld/target/sohelloworld-0.0.1-SNAPSHOT.jar
